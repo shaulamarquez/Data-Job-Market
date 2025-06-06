@@ -4,29 +4,29 @@ The demand for data analysts continues to rise, with companies across industries
 
 # Top-Paying Data Analyst Roles
 
-Salary varies based on experience, industry, and location. Some of the highest-paying data analyst roles include:
+* Salary varies based on experience, industry, and location. Some of the highest-paying data analyst roles include:
 
-Senior Data Analyst – Experienced professionals can earn significantly higher salaries.
+* Senior Data Analyst – Experienced professionals can earn significantly higher salaries.
 
-Data Analytics Consultant – Consulting firms offer lucrative compensation for expertise in data-driven decision-making.
+* Data Analytics Consultant – Consulting firms offer lucrative compensation for expertise in data-driven decision-making.
 
-Business Intelligence Analyst – Companies value analysts who can provide strategic insights from data.
+* Business Intelligence Analyst – Companies value analysts who can provide strategic insights from data.
 
-Quantitative Analyst – Analysts working in finance and investment sectors often command high salaries.
+* Quantitative Analyst – Analysts working in finance and investment sectors often command high salaries.
 
 # In-Demand Skills for Data Analysts
 
 To thrive in the job market, data analysts need a strong skill set. The most sought-after skills include:
 
-Programming Languages – Python, SQL, R
+* Programming Languages – Python, SQL, R
 
-Data Visualization – Tableau, Power BI, Looker
+* Data Visualization – Tableau, Power BI, Looker
 
-Statistical Analysis & Machine Learning – Regression analysis, predictive modeling
+* Statistical Analysis & Machine Learning – Regression analysis, predictive modeling
 
-Business Acumen – Understanding how data influences decision-making
+* Business Acumen – Understanding how data influences decision-making
 
-Cloud & Big Data Tools – AWS, Google BigQuery, Snowflake
+* Cloud & Big Data Tools – AWS, Google BigQuery, Snowflake
 
 # High Demand & High Salary Regions
 
